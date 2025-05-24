@@ -3,3 +3,7 @@
 
 # https://drive.google.com/drive/folders/1W2aDovLcooxKsQlMdFQ18hhiHoo3YkZI
 
+print("Hello mobile!")
+
+
+
